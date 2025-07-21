@@ -1,5 +1,5 @@
-# 💫 About Me:
-## 👋 Olá! Me chamo Gabriel Brito<br><br>🔭 Estou estudando programação. A linguagem inicial que escolhi aprender foi Python e, desde 2024, venho me desenvolvendo na área, fazendo cursos e praticando diariamente.<br><br>👯 Trabalho muito bem em equipe e procuro sempre contribuir da melhor forma possível.<br><br>🤝 Sou bastante receptivo a feedbacks e busco aplicá-los para evoluir profissionalmente.<br><br>🌱 No momento, estou refinando meus códigos, buscando soluções mais eficientes para os problemas, além de me aprofundar em algoritmos e boas práticas de desenvolvimento.<br><br>💬 Qualquer dúvida, estou à disposição!<br><br>⚡ A cada etapa vencida, me sinto mais confiante para dar novos passos.<br>
+💫 About Me:
+👋 Olá! Me chamo Gabriel Brito<br><br>🔭 Estou estudando programação. A linguagem inicial que escolhi aprender foi Python e, desde 2024, venho me desenvolvendo na área, fazendo cursos e praticando diariamente.<br><br>👯 Trabalho muito bem em equipe e procuro sempre contribuir da melhor forma possível.<br><br>🤝 Sou bastante receptivo a feedbacks e busco aplicá-los para evoluir profissionalmente.<br><br>🌱 No momento, estou refinando meus códigos, buscando soluções mais eficientes para os problemas, além de me aprofundar em algoritmos e boas práticas de desenvolvimento.<br><br>💬 Qualquer dúvida, estou à disposição!<br><br>⚡ A cada etapa vencida, me sinto mais confiante para dar novos passos.<br>
 
 
 ## 🌐 Socials:
